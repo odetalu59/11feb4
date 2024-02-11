@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://census.io/superjp.html/sitemap.xml
+Sitemap: http://census.io/gilajp.html/sitemap.xml
+Sitemap: http://census.io/gojekpot.html/sitemap.xml
+Sitemap: http://census.io/winstrike69.html/sitemap.xml
+Sitemap: http://census.io/jagoan86.html/sitemap.xml
+Sitemap: http://census.io/slotzeus.html/sitemap.xml
+Sitemap: http://census.io/kaptenjackpot.html/sitemap.xml
+Sitemap: http://census.io/boosterjp.html/sitemap.xml
+Sitemap: http://census.io/kerajaanslot.html/sitemap.xml
+Sitemap: http://census.io/pakong86.html/sitemap.xml
+Sitemap: http://census.io/viral88.html/sitemap.xml
+Sitemap: http://census.io/clan4d.html/sitemap.xml
+Sitemap: http://census.io/dinamit4d.html/sitemap.xml
+Sitemap: http://census.io/elang212.html/sitemap.xml
+Sitemap: http://census.io/gori77.html/sitemap.xml
+Sitemap: http://census.io/viral4d.html/sitemap.xml
+Sitemap: http://census.io/playground88.html/sitemap.xml
